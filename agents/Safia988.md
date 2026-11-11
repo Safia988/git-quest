@@ -3,4 +3,4 @@
 agent: Safia988
 codename: Safsaf
 passphrase: h1st0ry-n3v3r-f0rg3ts
-
+gadget: sghH4P/Jh
